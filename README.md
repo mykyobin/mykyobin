@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F4D,100:1D6FD8&height=200&section=header&text=%EA%B8%88%EA%B5%90%EB%B9%88&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Finance%20Backend%20%26%20AI%20Developer&descAlignY=60&descSize=20" width="100%" alt="금교빈 · Finance Backend & AI Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F4D,100:1D6FD8&height=200&section=header&text=%EA%B8%88%EA%B5%90%EB%B9%88&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Finance%20Backend%20%C2%B7%20AI%20Developer&descAlignY=60&descSize=20" width="100%" alt="금교빈 · Finance Backend · AI Developer" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=1D6FD8&center=true&vCenter=true&width=600&lines=Finance+%C3%97+Backend+%C3%97+AI;%EA%B2%80%EC%A6%9D+%EA%B0%80%EB%8A%A5%ED%95%9C+AI+%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC+%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4" alt="Finance × Backend × AI" />
