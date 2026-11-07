@@ -1,9 +1,4 @@
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.png">
-    <img src="assets/header-light.png" width="100%" alt="금교빈 · Finance Backend · AI Developer">
-  </picture>
-</p>
+### 안녕하세요, 금교빈입니다 👋
 
 금융 도메인의 백엔드·AI 개발자를 지향합니다 · SSAFY 16기 Python 트랙
 
