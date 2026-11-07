@@ -1,4 +1,9 @@
-# 금교빈
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.png">
+    <img src="assets/header-light.png" width="100%" alt="금교빈 · Finance Backend · AI Developer">
+  </picture>
+</p>
 
 금융 도메인의 백엔드·AI 개발자를 지향합니다 · SSAFY 16기 Python 트랙
 
@@ -6,19 +11,23 @@
 
 ### 안심피싱
 
+![우수상](https://img.shields.io/badge/%EC%9A%B0%EC%88%98%EC%83%81-FBF3DB?style=flat-square) ![AI 파트](https://img.shields.io/badge/AI%20%ED%8C%8C%ED%8A%B8-E1F3FE?style=flat-square) ![4인 팀](https://img.shields.io/badge/4%EC%9D%B8%20%ED%8C%80-EDF3EC?style=flat-square)
+
 **2026 금융 AI Challenge 우수상 (신한은행장상)** · 주최 금융보안원 · 1,388팀 참가 · [대회 페이지](https://daker.ai/public/hackathons/2026-finance-ai-challenge)
 
 AI가 사기범 역할로 실제 전화를 걸고, 예고 훈련과 불시 훈련의 대응을 비교해 리포트로 보여 주는 보이스피싱 대응훈련 서비스입니다. 4인 팀에서 AI 파트를 맡았습니다.
 
-| 통화 테스트 | 응답 보완 | 지연 개선 |
+| 통화 테스트 | 응답 보완 | 최대 지연 |
 |:--|:--|:--|
-| 약 100회 | 약 50건 | 최대 16초 → 2~4초 |
+| 약 100회 | 약 50건 | 16초 → 2~4초 |
 
 - **판정 신뢰성**: LLM 판정은 통화 원문과 대조해 근거가 없으면 폐기하고, 점수는 서버가 고정 가중치로 계산
 - **안전 통제**: 사기 시나리오 5종과 통화 규칙 설계, 실제 기관명·비밀정보 요구를 막는 녹취록 자동 감사
 - **지연 개선**: STT → LLM → TTS 구조를 실시간 음성 모델(OpenAI Realtime)로 전환
 
 ### StarTrace
+
+![SSAFY](https://img.shields.io/badge/SSAFY-EDF3EC?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-E1F3FE?style=flat-square)
 
 **SSAFY 프로젝트** · [저장소](https://github.com/mykyobin/StarTrace)
 
